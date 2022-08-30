@@ -1,0 +1,19 @@
+{
+    "name": "allan_n_p/otus-composer-hw3",
+    "type": "library",
+    "description": "Домашнее задание №3",
+    "autoload": {
+        "psr-4": {
+            "AllanNP\\OtusComposerHw3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AllanNP",
+            "email": "maxneon111@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
